@@ -32,5 +32,7 @@ Usage: Used for showing status updates (like "Item added to cart" or "Profile up
 Definition: A blank placeholder screen shown while content is loading, typically with gray or colored blocks representing content areas.
 Usage: Improves perceived loading speed by showing a preview structure of the content that’s being loaded.
 These elements help improve user experience by making web navigation more intuitive, responsive, and visually engaging.
-11. Pre Loader
-12. 
+11. Preloader
+Definition: An animated screen or loading indicator shown while a page or specific content is being loaded in the background.
+Usage: Commonly used in websites or applications with large assets (e.g., high-quality images, videos, or data-heavy content) to keep users engaged while they wait. Preloaders can vary from simple spinning icons to more elaborate animations or branded loading screens.
+Preloaders improve user experience by indicating that loading is in progress, reducing the perceived waiting time for content to appear.
