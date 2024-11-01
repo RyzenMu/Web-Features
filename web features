@@ -38,3 +38,5 @@ Usage: Commonly used in websites or applications with large assets (e.g., high-q
 Preloaders improve user experience by indicating that loading is in progress, reducing the perceived waiting time for content to appear.
 12. Overlay
 Overlay error messages like react
+13. Accordion
+FAQs use accordion show/hide answeers
