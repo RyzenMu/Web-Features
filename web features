@@ -40,3 +40,22 @@ Preloaders improve user experience by indicating that loading is in progress, re
 Overlay error messages like react
 13. Accordion
 FAQs use accordion show/hide answeers
+14. Star Ratings
+********
+15. Image Slider
+16. Load More Data -- is a button on press loads next set of data
+17. Nested Tree Views / Dynamic menus / Dynamic navigation
+18. QR Code Generator
+19. Light and Dark Mode
+20. Custom Scroll Indicator
+21. Custom Tabs
+22. Github Profile Finder
+23. Search Auto Complete
+24. Tic Tac Toe
+25. Feature Flags functionality
+26. useFetch Hook
+27. use Outside click hook
+28. use window resize hook
+29. scroll to top and bottom
+30. react reduct -- shopping kart
+31. 
