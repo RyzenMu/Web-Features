@@ -69,7 +69,7 @@ FAQs use accordion show/hide answeers
 39. Multi step Indicator
 40. scroll indicator
 41. window.confirm('Are you sure you want to delete all!) --> yes --> execute code
-44.
+44. Feature Flags --> combinig many features ina single page
 40. Product card
 41. tree view 
 42. Aria Role
