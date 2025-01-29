@@ -105,5 +105,6 @@ Websites that highlight eco-conscious efforts or adopt minimal resources (e.g., 
 67. params and query string
 68. active tabs
 69. toast -- toast top - toast bottom
-70. 
+70. e.submitter.id === "earnBtn" : "expBtn"
+71.
 
