@@ -112,4 +112,6 @@ Websites that highlight eco-conscious efforts or adopt minimal resources (e.g., 
 74. scroll to snap
 75. drag and drop
 76. setting / profile
+77. fs.readdir --> read the number of files in a directory.
+78.
 
