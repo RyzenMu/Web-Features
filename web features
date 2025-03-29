@@ -256,7 +256,7 @@ By mastering these concepts, you'll be well on your way to becoming a proficient
 95. defaultValue in html Tnput tag
 96. function returning another function --> higher order functions
 97. cartSlice.caseReducers.deleteItem(state, action)
-98. 
+98. thunks
 
 
 
