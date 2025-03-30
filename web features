@@ -259,6 +259,8 @@ By mastering these concepts, you'll be well on your way to becoming a proficient
 98. thunks
 99. createAsyncthunk
 100. navigator.geolocation.getCurrentPosition
+101. useFetcher, fetcher, fetcher.data, fetcher.state
+102. 
 
 
 
