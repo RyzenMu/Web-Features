@@ -271,6 +271,15 @@ By mastering these concepts, you'll be well on your way to becoming a proficient
 111. onBlur
 112. react drag div and not collide
 113. currying
+114. toaster / toast
+115. react-hook-form
+116. reset() on react-hook-form
+117. validate : value => value > 100 || "Discount shoulbe be less than regular price" (React-hook-form)
+118. useForm
+119. const FileInput = Styled.input.attrs({type:"file"})
+120. defaultValues in react-hook-form
+121. <HiSquare2Stack/> <HiPencil/> <HiTrash />
+122.
 
 
 
