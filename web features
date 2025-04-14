@@ -279,7 +279,9 @@ By mastering these concepts, you'll be well on your way to becoming a proficient
 119. const FileInput = Styled.input.attrs({type:"file"})
 120. defaultValues in react-hook-form
 121. <HiSquare2Stack/> <HiPencil/> <HiTrash />
-122.
+122. <HiXMArk/>
+123. <Overlay /> <Modal/>
+124. onClose = { } , event in html and react
 
 
 
